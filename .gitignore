@@ -1,4 +1,8 @@
 ./blog-list-backend/node_modules
-./blog-list-backend/.env
+./blog-list-backend/myenv.env
+blog-list-backend/myenv.env
+/blog-list-backend/myenv.env
 ./.idea
+.idea
 .gitignore
+myenv.env
