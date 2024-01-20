@@ -1,0 +1,4 @@
+./blog-list-backend/node_modules
+./blog-list-backend/.env
+./.idea
+.gitignore
