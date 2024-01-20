@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6074be9-56c4-45f6-8f41-4b477cbe1713" name="Changes" comment="add .gitignore">
+      <change afterPath="$PROJECT_DIR$/blog-list-backend/tests/list_helper.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-list-backend/utils/list_helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-list-backend/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-list-backend/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-list-backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-list-backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-list-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-list-backend/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bDSEt3xqvp5eNWagc5osYKx3lO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "HTTP Request.test | #1.executor": "Run",
+    "HTTP Request.test | #2.executor": "Run",
+    "Jest.most blogs.when list have a lot of object, return author and count of blogs.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/danila/fullstackopen/part4",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "//wsl.localhost/Ubuntu/home/danila/fullstackopen/part4/blog-list-backend/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "C:\\Users\\socio\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Jest.most blogs.when list have a lot of object, return author and count of blogs">
+    <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/blog-list-backend/test.rest" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/blog-list-backend/test.rest" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="most blogs.when list have a lot of object, return author and count of blogs" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/blog-list-backend/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$/blog-list-backend" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/blog-list-backend/tests/list_helper.test.js" />
+      <test-names>
+        <test-name value="most blogs" />
+        <test-name value="when list have a lot of object, return author and count of blogs" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.most blogs.when list have a lot of object, return author and count of blogs" />
+        <item itemvalue="HTTP Request.test | #2" />
+        <item itemvalue="HTTP Request.test | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6074be9-56c4-45f6-8f41-4b477cbe1713" name="Changes" comment="" />
+      <created>1705748047753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705748047753</updated>
+      <workItem from="1705748048814" duration="5695000" />
+      <workItem from="1705754553865" duration="678000" />
+      <workItem from="1705757751717" duration="5396000" />
+      <workItem from="1705771129075" duration="2258000" />
+    </task>
+    <task id="LOCAL-00001" summary="add .gitignore">
+      <option name="closed" value="true" />
+      <created>1705754433742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705754433742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.eslintignore" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore" />
+  </component>
+</project>
