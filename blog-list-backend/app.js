@@ -1,4 +1,5 @@
 const express = require('express')
+require('express-async-errors')
 const middleware = require('./utils/middleware')
 const logger = require('./utils/logger')
 const mongoose = require('mongoose')
@@ -15,7 +16,7 @@ app.use(middleware.morganTiny)
 logger.info('Connecting to MongoDB...')
 mongoose.connect(config.MongoUrl)
 	.then(() => {
-		logger.info('successful connected to MongoDB')
+		logger.info(`successful connected to ${config.MongoUrl}`)
 	})
 	.catch(error => {
 		logger.error('error connecting to MongoDB:', error.message)

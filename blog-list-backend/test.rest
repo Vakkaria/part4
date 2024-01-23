@@ -5,7 +5,7 @@ Content-Type: application/json
   "title": "Blog List",
   "author": "Oblomov",
   "url": "http://localhost:3003",
-  "likes": 1
+  "likes": 4
 }
 
 ###
